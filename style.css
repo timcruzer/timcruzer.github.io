@@ -14,14 +14,20 @@ body {
 
 /* CSS for centering the profile picture */
 .profile-picture {
-    text-align: center;
-    margin-top: 20px;
+    float: left;
+    margin-right: 20px;
 }
 
 .profile-picture img {
     width: 200px; /* Adjust the width as needed */
     border-radius: 50%; /* Make the image round */
 }
+
+/* Additional style for the Professional Bio header */
+.bio h2 {
+    margin-bottom: 10px;
+}
+
 
 
 /* Header styles */
