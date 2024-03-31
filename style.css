@@ -12,6 +12,18 @@ body {
     color: #333;
 }
 
+/* CSS for centering the profile picture */
+.profile-picture {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile-picture img {
+    width: 200px; /* Adjust the width as needed */
+    border-radius: 50%; /* Make the image round */
+}
+
+
 /* Header styles */
 header {
     background-color: #007bff;
