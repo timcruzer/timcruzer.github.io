@@ -28,6 +28,10 @@ body {
     margin-bottom: 10px;
 }
 
+/* CSS for the bio content */
+.bio-content {
+    overflow: hidden; /* Clear the float */
+}
 
 
 /* Header styles */
